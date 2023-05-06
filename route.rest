@@ -1,15 +1,15 @@
 # GET http://localhost:8000/api/v1/products
 
 # # # ###
-# POST http://localhost:8000/api/v1/products/create
-# Content-Type: application/json
+POST http://localhost:8000/api/v1/products/create
+Content-Type: application/json
 
-# {
-#     "name":"Laptop",
-#     "quantity":9
-# }
+{
+    "name":"pencil",
+    "quantity":9
+}
  
 
-# DELETE http://localhost:8000/api/v1/products/64313fe8783df1ec049618ec
+# DELETE http://localhost:8000/api/v1/products/6453a9d6f8abdebcd72fc1d0
 
 # PATCH  http://localhost:8000/api/v1/products/6431404f2896f91aa604e8eb/update_quantity/?number=10
