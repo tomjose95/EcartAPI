@@ -1,6 +1,6 @@
 const development = {
   name: "development",
-  db: "mongodb+srv://zypher:<password>@cluster0.wxdvdqr.mongodb.net/EcartAPIs?retryWrites=true&w=majority",
+  db: "mongodb+srv://zypher:Campco$12@cluster0.wxdvdqr.mongodb.net/EcartAPIs?retryWrites=true&w=majority",
   username: "Admin",
   password: "12345",
   secretKey: "ecart",
